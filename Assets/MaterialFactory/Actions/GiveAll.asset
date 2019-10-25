@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 878106364, guid: 503d4024ee664e94cb10906948c3415f, type: 3}
+  m_Name: GiveAll
+  m_EditorClassIdentifier: 
+  professionType: 2
+  input:
+  - type: {fileID: 11400000, guid: 7c0589b436c124e4aa343cf5117f7df0, type: 2}
+    value: 1
+  output:
+  - type: {fileID: 11400000, guid: 1be3ca98014cde6449a533e1701f4009, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: aaed98b8c29a8e347946655d3a139756, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: 8535f54d4e0adaa448827ecba584c596, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: 2e8e235d47fbe3341b76055658951793, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: 4c8f12450da84e44fa974faa4cff8e23, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: c0f856579cb802d4eb0387753f42c04c, type: 2}
+    value: 1000
+  - type: {fileID: 11400000, guid: 39df25ab567e16d4da7cda67ff7218b1, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: 6717dc1fe157b434dbec71efbaa6b25d, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: f9dd76d1691ba5541bfa960bd83ad3e9, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: 617692f1335d23644b2d7389f543ccf7, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: d4eade2fc36c152409aa43eaf5e26d82, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: e8cd2f4ebc9232e47a92b1b4aa637303, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: 8058631756b98f04f9ece6f412144c3e, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: ce70ad085b6247f43bf2ddba66751c46, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: 7c0589b436c124e4aa343cf5117f7df0, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: 014bb928a1ca3144f9f49eb1ecb30650, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: 97c5d828e3e92c74b9958e593172b86a, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: e13851ae2ec683a45802b5f3fc64d81c, type: 2}
+    value: 500
+  - type: {fileID: 11400000, guid: 2d568a404bcac4b43ac10fa71f14497e, type: 2}
+    value: 500
+  productionTime: 5
+  disasterMultiplier: 1
+  recipes: []
