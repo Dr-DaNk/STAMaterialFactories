@@ -1,0 +1,261 @@
+newmtl GR_Moss1_AS
+map_Kd GridBox_NoDraw.tga
+Kd 1 1 1
+d 1
+
+newmtl BLD_Doors1
+map_Kd BLD_Doors1_A.tif
+map_Pm BLD_Doors1_MS.tif
+bump BLD_Doors1_N.tif
+Kd 1 1 1
+d 1
+
+newmtl NAT_Grass
+map_Kd NAT_Grass1_AS.tif
+bump NAT_Grass1_N.tif
+Kd 1 1 1
+d 1
+
+newmtl PROP_Car1
+map_Kd PROP_Car1_A.tif
+bump PROP_Car1_N.tif
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl BLD_Structures2
+map_Kd BLD_Structures2_A.tif
+map_Pm BLD_Structures2_MS.tif
+bump BLD_Structures2_N.tif
+Kd 1 1 1
+d 1
+
+newmtl Optimized_Bark_Material
+map_Kd diffuse.png
+Kd 1 1 1
+d 1
+
+newmtl Optimized_Leaf_Material
+map_Kd diffuse.png
+Kd 1 1 1
+d 1
+
+newmtl BLD_IndBuilding1
+map_Kd BLD_IndBuilding1_A.tif
+map_Pm BLD_IndBuilding1_MS.tif
+bump BLD_IndBuilding1_N.tif
+Kd 1 1 1
+d 1
+
+newmtl BLD_Cabins
+map_Kd BLD_Cabins1_A.tif
+map_Pm BLD_Cabins1_MS.tif
+bump BLD_Cabins1_N.tif
+Kd 0.8018868 0.7375845 0.7375845
+d 1
+
+newmtl PROP_SmallProps1
+map_Kd PROP_SmallProps1_A.tif
+map_Pm PROP_SmallProps1_MS.tif
+bump PROP_SmallProps1_N.tif
+Kd 1 1 1
+d 1
+
+newmtl BLD_BrickHouse1
+map_Kd BLD_BrickHouse1_A.tif
+map_Pm BLD_BrickHouse1_MS.tif
+bump BLD_BrickHouse1_N.tif
+Kd 1 1 1
+d 1
+
+newmtl NAT_CobbleRocks1
+map_Kd NAT_CobbleRocks1_A.tif
+bump NAT_CobbleRocks1_N.tif
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl BLD_Villa2
+map_Kd BLD_Villa2_A.tif
+map_Pm BLD_Villa2_MS.tif
+bump BLD_Villa2_N.tif
+Kd 1 1 1
+d 1
+
+newmtl BLD_BrickHouse1_A
+map_Kd BLD_BrickHouse1_A.tif
+Kd 1 1 1
+d 1
+
+newmtl Metal_Plate_1
+map_Kd Metal_Plates_1_AlbedoTransparency.tga
+map_Pm Metal_Plates_1_2_3_MetallicSmoothness.tga
+bump Metal_Plates_Normal.tga
+Kd 1 1 1
+d 1
+
+newmtl Mat_plasticBarrel_Skin2
+map_Kd PlasticBarrels_1_SP_Mat_plasticBarrel_AlbedoTransparency.png
+map_Pm PlasticBarrels_1_SP_Mat_plasticBarrel_MetallicSmoothness.png
+bump PlasticBarrels_1_SP_Mat_plasticBarrel_Normal.png
+Kd 1 1 1
+d 1
+
+newmtl Metal_Plate_2
+map_Kd Metal_Plates_2_AlbedoTransparency.tga
+map_Pm Metal_Plates_1_2_3_MetallicSmoothness.tga
+bump Metal_Plates_Normal.tga
+Kd 1 1 1
+d 1
+
+newmtl BLD_Structures1_LOD
+map_Kd BLD_Structures1_A.tif
+map_Pm BLD_Structures1_MS.tif
+Kd 1 1 1
+d 1
+
+newmtl Barrels_Set_2_2048_Dirt_Transparent
+map_Kd Barrels_Set_2_AlbedoTransparency.tga
+map_Pm Barrels_Set_2_MetallicSmoothness.tga
+bump Barrels_Set_2_Normal.tga
+Kd 0.4245283 0.4105109 0.4105109
+d 1
+
+newmtl Metal_Plate_3
+map_Kd Metal_Plates_3_AlbedoTransparency.tga
+map_Pm Metal_Plates_1_2_3_MetallicSmoothness.tga
+bump Metal_Plates_Normal.tga
+Kd 1 1 1
+d 1
+
+newmtl Barrel_v1
+map_Kd Barrel_v1.tga
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl PROP_SmallProps2
+map_Kd PROP_SmallProps2_A.tif
+map_Pm PROP_SmallProps2_MS.tif
+bump PROP_SmallProps2_N.tif
+Kd 1 1 1
+d 1
+
+newmtl Metal_Plate_4
+map_Kd Metal_Plates_4_AlbedoTransparency.tga
+map_Pm Metal_Plates_4_MetallicSmoothness.tga
+bump Metal_Plates_Normal.tga
+Kd 1 1 1
+d 1
+
+newmtl PlasticBarrels_1_SP_Mat_plasticBarrel_AlbedoTransparency
+map_Kd PlasticBarrels_1_SP_Mat_plasticBarrel_AlbedoTransparency.png
+Kd 1 1 1
+d 1
+
+newmtl Barrels_1024_Dirt
+map_Kd Barrels_Set_1_AlbedoTransparency.tga
+map_Pm Barrels_Set_1_MetallicSmoothness.tga
+bump Barrels_Set_1_Normal.tga
+Kd 1 1 1
+d 1
+
+newmtl Packages
+map_Kd Packages.png
+bump Packages_n.png
+Kd 1 1 1
+d 1
+
+newmtl Kerb
+map_Kd Kerb.png
+bump Kerb_n.png
+Kd 1 1 1
+d 1
+
+newmtl Barrels_2048_Dirt
+map_Kd Barrels_Set_1_AlbedoTransparency.tga
+map_Pm Barrels_Set_1_MetallicSmoothness.tga
+bump Barrels_Set_1_Normal.tga
+Kd 1 1 1
+d 1
+
+newmtl Сoncrete_ring
+map_Kd Сoncrete_ring.png
+bump Сoncrete_ring_n.png
+Kd 1 1 1
+d 1
+
+newmtl Tires
+map_Kd Tires.png
+bump Tires_n.png
+Kd 1 1 1
+d 1
+
+newmtl Stone_heap
+map_Kd Stone_heap.png
+bump Stone_heap_n.png
+Kd 1 1 1
+d 1
+
+newmtl Cargo_container_v1
+map_Kd Cargo_container_v1.tga
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl _jerry_mat_a
+map_Kd diffuse a.png
+bump normal.png
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Road_cone
+map_Kd Road_cone.png
+bump Road_cone_n.png
+Kd 1 1 1
+d 1
+
+newmtl Barrels_Set_2_1024_Dirt
+map_Kd Barrels_Set_2_AlbedoTransparency.tga
+map_Pm Barrels_Set_2_MetallicSmoothness.tga
+bump Barrels_Set_2_Normal.tga
+Kd 1 1 1
+d 1
+
+newmtl Wooden_box_v1
+map_Kd Wooden_box_v1.tga
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl barrel_mat_3
+map_Kd diffuse 3.png
+bump barrel_normal_3.png
+Kd 1 1 1
+d 1
+
+newmtl Сoncrete_block
+map_Kd Сoncrete_block.png
+bump Сoncrete_block_n.png
+Kd 1 1 1
+d 1
+
+newmtl Barrels_Set_2_2048_Dirt
+map_Kd Barrels_Set_2_AlbedoTransparency.tga
+map_Pm Barrels_Set_2_MetallicSmoothness.tga
+bump Barrels_Set_2_Normal.tga
+Kd 1 1 1
+d 1
+
+newmtl GroundStones01
+map_Kd GroundStones01.png
+Kd 1 0.8734108 0.7971698
+d 1
+
+newmtl _jerry_mat_b
+map_Kd diffuse b.png
+bump normal.png
+Kd 1 1 1
+d 1
+
+newmtl NAT_Rocks1
+map_Kd NAT_Rocks1_A.tif
+bump NAT_Rocks1_N.tif
+Kd 1.0 1.0 1.0
+d 1.0
+
